@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemaGDSC", "TemaGDSC\TemaGDSC.csproj", "{4BA6D927-399A-4130-860B-F488BF689E90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BA6D927-399A-4130-860B-F488BF689E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA6D927-399A-4130-860B-F488BF689E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA6D927-399A-4130-860B-F488BF689E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA6D927-399A-4130-860B-F488BF689E90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
